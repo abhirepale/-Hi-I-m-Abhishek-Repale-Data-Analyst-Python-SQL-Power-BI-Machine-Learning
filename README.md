@@ -62,8 +62,8 @@ I am continuously learning new technologies and improving my skills in Data Scie
 
 ## 📫 Contact Me
 
-* 💻 GitHub: https://github.com/sidd-patil987
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* GitHub: https://github.com/abhirepale
+* Linkdln: https://www.linkedin.com/in/repale-abhishek/
 
 ---
 
